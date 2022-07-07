@@ -1,0 +1,9 @@
+user.name=Nikita Baltaksa
+user.email=cloudfreze102@gmail.com
+color.ui=true
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/serpanoid/ruby-koans01.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
